@@ -11,7 +11,7 @@
 - data shape: (5231, 4)
 
 ### 내용
-- transformer 모델을 이용한 챗봇과 sentence_transformers를 사용한 BERT의 문장 임베딩을 이용한 챗봇 구현
+- transformer 모델을 이용한 챗봇 구현
 - KOBERT 다중분류 모델과 LSTM 다중분류모델 구현
 - 대화 의도를 6가지 상황으로 구분하여 각 상황에 필요한 정보가 나오도록 함
 - 챗봇과 다중분류모델 합치고 상황에 맞는 정보가 나오도록 모델을 만듦
